@@ -11,6 +11,9 @@ Until I have created an exe file, please be sure to have Python 3.8, Tkinter, Py
   6. Press Stop to end the scan at any time.
   
   Notes: 
+  
       - Seconds should be in int format. ex. input "1" for a 1 second delay. 
+      
       - Colors are in RGB format surrounded in parentheses. ex: (49, 184, 198)
+      
       - Fill out the X and Y coordinate in separate boxes.
